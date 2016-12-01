@@ -1,0 +1,15 @@
+{
+  "name": "SMARTOB",
+  "version": "1.2.1",
+  "description": "karma unit-test package.json",
+  "author": "William Jiang <wjiang@dsny.nyc.gov>",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.10",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-fixture": "^0.2.5",
+    "karma-html2js-preprocessor": "^0.1.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-json-fixtures-preprocessor": "0.0.5"
+  }
+}

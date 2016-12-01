@@ -1,0 +1,6 @@
+doc/
+node_modules/
+.idea/
+public/**/*.png
+public/fonts
+favicon.ico
